@@ -45,7 +45,9 @@ Para acessar a documentacão da API, siga os passos abaixo:
 
 - Clone o repositório
 - Instale as dependências com `yarn`
-- Iniciar o servidor com `yarn dev`
+- Inicie o servidor com `yarn dev`
+- Utilize o Insomnia ou algum outro programa semelhante para realizar as requisições.
+- Rode os testes com `yarn test`
 
 ---
 
