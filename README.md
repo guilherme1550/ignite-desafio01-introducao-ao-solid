@@ -1,4 +1,4 @@
-<h1 align="center">Ignite Desafio 01 - Conceitos do Node.js</h1>
+<h1 align="center">Ignite Desafio 01 - Introdução ao SOLID</h1>
 
 <p align="center">
   <a href="#-Desafio">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
