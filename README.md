@@ -15,7 +15,7 @@
 
 Neste desafio, foi possível treinar o que foi aprendido até agora no Bootcamp Ignite.
 
-Esta é uma aplicacão de cadastro e listagem de usuários. Para realizar a listagem de todos usuários, o usuário que realiza a requisição deve ser um admin.
+Esta é uma aplicacão de cadastro e listagem de usuários. Para realizar a listagem de todos usuários, o usuário que realizar a requisição deve ser um admin.
 
 Após a finalizacão do desafio, foi realizada a documentacão da API com a ferramenta SwaggerUI.
 <br/><br/>
@@ -36,6 +36,7 @@ Para acessar a documentacão da API, siga os passos abaixo:
 
 - Clone o repositório
 - Instale as dependências com o comando `yarn`
+- Iniciar o servidor com `yarn dev`
 - Acesse a rota `http://localhost:3333/api-docs`
 <br/><br/>
 
@@ -44,7 +45,7 @@ Para acessar a documentacão da API, siga os passos abaixo:
 
 - Clone o repositório
 - Instale as dependências com `yarn`
-- Rode o servidor com `yarn dev`
+- Iniciar o servidor com `yarn dev`
 
 ---
 
